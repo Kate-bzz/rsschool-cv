@@ -1,0 +1,83 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: Georgia, serif;
+    background: url("images/lesblur.jpg");
+}
+.container{
+    width: 72%;
+    box-shadow: 50px 50px 50px 50px rgba(0,0,0,0.75);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px auto;
+}
+header{
+    display: flex;
+    margin: 0 auto;
+    padding: 4%;
+	width:92%;
+	background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+#ava{
+    width: 80%;
+    height: 80%;
+    border-radius: 5%;
+}
+.name{
+    font-size: 68pt;
+    text-decoration: underline;
+}
+.button{
+    background-color: #f3ff46;
+    color: black;
+	margin: auto;
+	font-weight: bold;
+	display: block;
+	padding: 20px 0;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16pt;
+    width: 40%;
+    transition: 0.45s;
+    border-radius: 5%;
+}
+.button:hover{
+    background-color:#4d4d4d;
+    transition: 0.45s;
+    color: white;
+}
+hr{
+    width: 85%;
+    margin: 5% auto;
+    font-weight: bold;
+    color:black;
+}
+#bet{
+	width:100%;
+	background-color: white;
+    padding-bottom: 2%;
+    font-size: large;
+}
+.textright{
+    border-left: 4px solid #f3ff46;
+    padding: 2% 3%;
+    margin-left: 50%;
+    font-size: larger;
+}
+.textleft{
+    border-right: 4px solid #f3ff46;
+    padding: 2% 3%;
+    text-align: right;
+    margin-right: 49.6%;
+    font-size: larger;
+}
+pre{
+    padding: 2%;
+    border-radius: 5%;
+    background-color: #cfcfcf;
+    font-size: smaller;
+}
