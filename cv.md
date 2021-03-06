@@ -35,3 +35,7 @@ Faculty: Information Technology and Management
 Specialty: Automated information processing systems.
 
 Average grade: 8.8
+
+#8.English:
+
+Intermediate(B1).
