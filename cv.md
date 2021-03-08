@@ -4,9 +4,10 @@ Zhuk Yekaterina
 ---
 # 2.Contacts for communication:
 
-E-mail: katyazhuk501@gmail.com
----
+E-mail: katyazhuk501@gmail.com  
+
 Phone number:+375-33-319-63-97
+
 ---
 # 3.Information about myself:
 
